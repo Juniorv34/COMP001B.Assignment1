@@ -1,1 +1,2 @@
-# COMP001B.Assignment1
+Junior Vargas
+Purpose:CSS Lecture Activity
